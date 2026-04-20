@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+
+# Audio / Dataset
+*.wav
+*.mp3
+datasets/
+
+# Models
+*.h5
+*.pt
+
+# Node
+node_modules/
+
+# Env
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git (important)
+.git/
